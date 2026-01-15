@@ -19,7 +19,7 @@ At the end of the project, we will predict the review whether it is positive or 
     6. Train model ( Logistic Regression )
     7. Evaluate the model accuracy ( Accuracy = 0.885 )
     8. Save the model
-    9. Exploratory data analysis (review length, sentiment distribution, class balance)
+    9. Post-Model Exploratory data analysis (review length, sentiment distribution, class balance)
     10. In app.py, use streamlit
 
 
@@ -42,5 +42,5 @@ Note: This exploratory analysis was conducted to understand the dataset characte
 ## Result
 The trained model achieves 88.85 percentage on the test set.
 
-## Demo ( Streamlit app)
-Run the app locally
+## Live Demo ( Streamlit app)
+https://sentiment-analysis-movie-reviews-swna7sktweepojrv6xm6uy.streamlit.app/
