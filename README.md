@@ -19,8 +19,18 @@ At the end of the project, we will predict the review whether it is positive or 
     6. Train model ( Logistic Regression )
     7. Evaluate the model accuracy ( Accuracy = 0.885 )
     8. Save the model
-    9. Exploratory data analysis
+    9. Exploratory data analysis (review length, sentiment distribution, class balance)
     10. In app.py, use streamlit
+
+
+## Post-Model Exploratory Analysis
+Exploratory analysis was performed to better understand review characteristics after model training.
+This includes:
+- Review length distribution
+- Sentiment class balance
+- Comparison of review length by sentiment
+Note: This exploratory analysis was conducted to understand the dataset characteristics and does not influence model training.
+
 
 ## Library Used
 - Python
